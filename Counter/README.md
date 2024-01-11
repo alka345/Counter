@@ -1,8 +1,11 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Through this project,I got clarity of :
+## Need of Hooks
+## Learnt use of useState() Hooks
+## useSate() function is to propagate changes/updation over UI.
+## How useState() return into array of two variables
+## 0th index : variable such as count
+## 1st index : method such as setCount,this method will control count variable
+## to use usestate() ,define it  :
+## import {useState} from 'react'
